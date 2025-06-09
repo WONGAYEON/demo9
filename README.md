@@ -44,5 +44,9 @@ click [여기](https://www.naver.com)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ---
 방문자 수 카운트
-![Visitor](https://komarev.com/ghpvc/?username=WONGAYEON&color=dark)
+![Visitor](https://komarev.com/ghpvc/?username=WONGAYEON&color=yellow)
+---
+인용문
+> 여기는 인용구문입니다.
+> 천리길도 한걸음부터
 ---
